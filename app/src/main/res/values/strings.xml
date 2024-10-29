@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sailing Adventures</string>
+    <string name="ivSail">Sailing Image</string>
+    <string name="tvTitle">Sailing Adventures - Edinburgh, Scotland </string>
+    <string name="tvDescription">Sailing Adventures located at Edinburgh Marina in Edinburgh Scotland, has a simple sailing philosophy - We Create Adventure! Our experience, expertise and knowledge of the high seas provide our customers with the best chance of having an enjoyable and historical sailing adventure. Select a date for your sailing day trip.</string>
+    <string name="btDate">Select the Date for a Full-Day Sailing Trip</string>
+    <string name="reservation_message">Your reservation is set for %1$s</string>
+</resources>
